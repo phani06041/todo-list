@@ -20,3 +20,4 @@ RDS is also connected to EC2 instance for storing the table values returned from
 |---script.js
 |---style.css
 |---image.png(showing lambda function)
+.
